@@ -1,0 +1,46 @@
+body {
+    background: url('4556428.jpg');
+    color: rgb(22, 240, 229);
+    font-size: 62.5%;
+    font-size: 1rem;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    margin-top: 170px;
+    background: rgb(31, 18, 212);
+    padding: 1rem;
+    opacity: 0.9;
+    width: 900px;
+    height: 435px;
+    border-radius: 5px;
+    border: rgb(53, 10, 243) solid 1px;
+}
+
+.titulo h1 {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-top: 2px dotted red;
+    border-bottom: 2px dotted red;
+    font-size: 2rem;
+}
+
+.paragrafo p {
+    padding: 1rem 2rem;
+    line-height: 1.3rem;
+    font-size: 1.6rem;
+    color: rgb(136, 248, 49);
+
+}
+.nome a{
+    padding: 1rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: rgb(240, 127, 22) 
+}
+.nome p{
+    padding: 1rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+}

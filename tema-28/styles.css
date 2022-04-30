@@ -1,0 +1,47 @@
+body {
+    background: url('a-shiny-banette-fix-sonic-the-sandslash-a-unicorn-rapidash-pokemo-11563286690zqzonc4gzi.png');
+    color: rgb(140, 12, 97);    
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    margin-top: 170px;
+    background: rgb(61, 226, 212);
+    color: #333;
+    padding: 0rem;
+    opacity: 0.91;
+    width: 900px;
+    height: 335px;
+    border-radius: 5px;
+    border: #333 solid 2px;
+    font-size: 1.5rem;
+}
+
+.titulo h1 {
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    border-top: 2px dotted red;
+    border-bottom: 2px dotted red;
+    color: blue;
+    background-color: aqua;
+    font-size: 2.3rem;
+}
+
+.paragrafo p {
+    padding: 1rem 2rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: rgb(170, 9, 9);
+}
+
+.nome p{
+    margin-top: 2rem;
+    text-align: center;
+    color: purple;
+    font-size: 1.6rem;
+}
+.nome a{
+font-size: 1.6rem;
+}

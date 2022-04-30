@@ -1,0 +1,47 @@
+body {
+    background: url('a855eb13a85070f7b63ad618310a0110.jpg');
+    color: rgb(240, 127, 22);
+    font-size: 62.5%;
+    font-size: 1rem;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    margin-top: 170px;
+    background: rgb(143, 9, 5);
+    padding: 1rem;
+    opacity: 0.9;
+    width: 900px;
+    height: 335px;
+    border-radius: 5px;
+    border: rgb(243, 172, 20) solid 1px;
+}
+
+.titulo h1 {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-top: 2px dotted blue;
+    border-bottom: 2px dotted blue;
+    font-size: 2rem;
+}
+
+.paragrafo p {
+    padding: 0rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: rgb(44, 183, 248);
+
+}
+.nome a{
+    padding: 1rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: rgb(0, 0, 0) 
+}
+.nome p{
+    padding: 1rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: yellow;
+}

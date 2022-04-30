@@ -1,0 +1,49 @@
+body {
+    background: url('deku pós guerra.jpg');
+    color: rgba(1, 240, 12, 97);
+    font-size: 62.5%;
+    font-size: 1.6rem;
+    }
+    
+    .container {
+        text-align: center;
+        margin: auto;
+        margin-top: 170px;
+        background: rgb(39, 214, 106);
+        color: #333;
+        padding: 0rem;
+        opacity: 0.92;
+        width: 900px;
+        height: 335px;
+        border-radius: 5px;
+        border: #333 solid 1px;
+    }
+    
+    .titulo h1 {
+        margin-bottom: 2rem;
+        padding: 2rem;
+        font-size: 2.3rem;
+        border-top: 1px dotted black;
+        border-bottom: 1px dotted black;
+    }
+    
+    .paragrafo p {
+        padding: 1rem 2rem;
+        font-size: 1.6rem;
+        line-height: 1.3rem;
+        color: green;
+    
+    }
+    
+    .nome p{
+        margin-top: 2rem;
+        text-align: center;
+        color:yellow;
+        font-size: 1.6rem;
+    }
+    .nome a{
+        margin-top: 2rem;
+        text-align: center;
+        color:whitesmoke;
+        font-size: 1.6rem;
+    }

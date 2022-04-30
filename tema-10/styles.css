@@ -1,0 +1,44 @@
+body {
+    background: url('thumb-1920-135625.jpg');
+    color: rgb(240, 12, 97);
+    font-size: 62.5%;
+    font-size: 1.5rem;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    margin-top: 170px;
+    background: rgb(238, 235, 36);
+    color:blue;
+    padding: 0rem;
+    opacity: 0.86;
+    width: 900px;
+    height: 335px;
+    border-radius: 5px;
+    border: #333 solid 1px;
+    font-size: 1.6rem;
+}
+
+.titulo h1 {
+    font-size: 2.15rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-top: 2px dotted black;
+    border-bottom: 2px dotted black;
+}
+
+.paragrafo p {
+    padding: 1rem 2rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: blue;
+
+}
+
+.nome p a{
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: red;
+}

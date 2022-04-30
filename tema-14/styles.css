@@ -1,0 +1,49 @@
+body {
+    background: url('sonic-sonic-the-hedgehog-2020-sonic-the-hedgehog-hd-wallpaper-preview.jpg');
+    color: rgb(140, 12, 97);    
+    }
+    
+    .container {
+        text-align: center;
+        margin: auto;
+        margin-top: 170px;
+        background: rgb(39, 245, 228);
+        color: #333;
+        padding: 0rem;
+        opacity: 0.86;
+        width: 900px;
+        height: 335px;
+        border-radius: 5px;
+        border: #333 solid 2px;
+        font-size: 1.5rem;
+    }
+    
+    .titulo h1 {
+        margin-top: 0rem;
+        margin-bottom: 1rem;
+        padding: 2rem;
+        border-top: 2px dotted red;
+        border-bottom: 2px dotted red;
+        color: blue;
+        background-color: aqua;
+        font-size: 2.3rem;
+    }
+    
+    .paragrafo p {
+        padding: 1rem 2rem;
+        font-size: 1.6rem;
+        line-height: 1.3rem;
+        color: blue;
+    
+    }
+    
+    .nome p{
+        margin-top: 2rem;
+        text-align: center;
+        color: blueviolet;
+        font-size: 1.6rem;
+    }
+    .nome a{
+    color: green;
+    font-size: 1.6rem;
+}

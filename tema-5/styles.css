@@ -1,0 +1,47 @@
+body {
+    background: url('105-1053402_tyson-hesse-sonic-cd.jpg');
+    color: rgb(142, 17, 180);
+    font-size: 62.5%;
+    font-size: 1rem;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    margin-top: 170px;
+    background: rgb(24, 197, 228);
+    padding: 0.5rem;
+    opacity: 0.9;
+    width: 900px;
+    height: 335px;
+    border-radius: 5px;
+    border: #333 solid 1px;
+}
+
+.titulo h1 {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
+}
+
+.paragrafo p {
+    padding: 0rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: blueviolet;
+}
+
+.nome p{
+    margin-top: 1rem;
+    text-align: center;
+    color: purple;
+    font-size: 1.6rem;
+}
+
+.nome a{
+    margin-top: 1rem;
+    text-align: center;
+    color: powderblue;
+    font-size: 1.6rem;
+}

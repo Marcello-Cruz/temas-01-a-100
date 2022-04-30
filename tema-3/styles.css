@@ -1,0 +1,47 @@
+body {
+    background: url('sonic_vs__metal_sonic_wallpaper_by_jacktheknight_desdlxl-pre.jpg');
+    color:rgba(22, 62, 240, 0.87);
+    font-size: 62.5%;
+    font-size: 1rem;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    margin-top: 170px;
+    background: rgba(30, 27, 235, 0.938);
+    color: rgb(127, 39, 243);
+    padding: 1rem;
+    opacity: 0.9;
+    width: 900px;
+    height: 335px;
+    border-radius: 5px;
+    border: #333 solid 1px;
+}
+
+.titulo h1 {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    font-size: 2rem;
+    border-top: 1px dotted white;
+    border-bottom: 1px dotted white;
+}
+
+.paragrafo p {
+    padding: 1rem 2rem;
+    font-size: 1.6rem;
+    line-height: 1.3rem;
+    color: rgb(31, 194, 235);
+
+}
+
+.nome p{
+    margin-top: 2.65rem;
+    text-align: center;
+    color: yellow ;
+    font-size: 1.65rem;
+}
+.nome a{
+    font-size: 1.65rem;
+    color: blueviolet;
+}
